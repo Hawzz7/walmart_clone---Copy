@@ -63,28 +63,10 @@ const HeaderBottom = () => {
                }
               </div>
               <SideNavContent
-                title="Digital Content & Devices"
-                one="Amazon Music"
-                two="Kindle E-readers & Books"
-                three="Amazon Appstore"
-              />
-              <SideNavContent
-                title="Shop By Department"
-                one="Electronics"
-                two="Computers"
-                three="Smart Home"
-              />
-              <SideNavContent
-                title="Programs & Features"
-                one="Gift Cards"
-                two="Amazon live"
-                three="International Shopping"
-              />
-              <SideNavContent
-                title="Help & Settings"
-                one="Your Account"
-                two="Customer Service"
-                three="Contact us"
+                title="Purchase History"
+                one="Return and Order"
+                two="Help"
+                three="List"
               />
               <span
                 onClick={() => setSidebar(false)}
