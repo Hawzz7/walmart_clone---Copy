@@ -1,8 +1,38 @@
-# React + Vite
+# Walmart-clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This similar looking Walmart project is a web application that simulates an online shopping experience. It features a fully functional e-commerce platform, including a product catalog, user authentication and a shopping cart
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Clone this project to your local Computer by running the comand on the cmd 
+
+ * git clone https://github.com/Hawzz7/walmart_clone---Copy
+
+after this install all the dependencies and start the server
+
+* npm install
+
+since I have made this project with vite that is why run this command
+* npm run dev
+
+## Technologies Used
+
+* Reactjs( React Router ),
+* Redux & Redux Toolkit,
+* TailwindCSS,
+* MUI-icons,
+
+## Deployment Link
+click on this link to see the website how it looks and work
+* 
+
+## Contact
+
+On email
+
+* vicky.007.cr@gmail.com
+  
+Or connect on linkedin
+
+* Narendra Kumar Majhi :- https://www.linkedin.com/in/narendra-kumar-majhi-78518a206
