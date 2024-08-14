@@ -13,8 +13,9 @@ after this install all the dependencies and start the server
 
 * npm install
 
-since I have made this project with vite that is why run this command
+since I have made this project with vite that is why the running command is
 * npm run dev
+* it will oppen the server at  http://localhost:5173/
 
 ## Technologies Used
 
