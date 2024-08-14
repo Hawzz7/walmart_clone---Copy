@@ -20,12 +20,13 @@ since I have made this project with vite that is why run this command
 
 * Reactjs( React Router ),
 * Redux & Redux Toolkit,
+* Redux-Persist
 * TailwindCSS,
 * MUI-icons,
 
 ## Deployment Link
 click on this link to see the website how it looks and work
-* 
+* https://walmart-clone-navy.vercel.app/
 
 ## Contact
 
